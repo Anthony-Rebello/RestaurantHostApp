@@ -9,17 +9,17 @@ The following is the projected timeline for work on this project. Sprints are me
 - Organize GitHub and layout first two sprints.
 - Complete initial project setup.
 - Create application toolbar:
-- - Create Settings button with corresponding page.
-- - Create Edit button.
-- - Create New Table '+' button for when new guests arrive.
+  - Create Settings button with corresponding page.
+  - Create Edit button.
+  - Create New Table '+' button for when new guests arrive.
 - Potentially:
-- - Create table object.
+  - Create table object.
 
 ### Sprint 2
 - Finish creating table object if applicable.
 - Establish data persistence.
 - Potentially:
-- - Begin creating GUI for dining room layout.
+  - Begin creating GUI for dining room layout.
 
 ## Created By:
 Anthony Rebello
